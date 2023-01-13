@@ -1,2 +1,2 @@
 # calculadora
-calculadora simples.
+calculadora simples para aprimorar conhecimento em js.
